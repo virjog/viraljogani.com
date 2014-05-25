@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Quando);
+
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -47,9 +49,9 @@
 		comment brackets */
 
 @font-face {
-	    font-family: SerifPro;
-	    src: url('../fonts/SourceSerifPro-Bold.otf');
+	    font-family: Quando, serif;
+	    /*src: url('../fonts/SourceSerifPro-Bold.otf');
 	    src: url('../fonts/SourceSerifPro-Regular.otf') format('otf'),
-	         url('../fonts/SourceSerifPro-Semibold.otf') format('otf');
+	         url('../fonts/SourceSerifPro-Semibold.otf') format('otf');*/
 	    font-weight: normal;
 	    font-style: normal; }
