@@ -47,7 +47,7 @@
 		comment brackets */
 
 @font-face {
-	    font-family: 'SerifPro';
+	    font-family: SerifPro;
 	    src: url('../fonts/SourceSerifPro-Bold.otf');
 	    src: url('../fonts/SourceSerifPro-Regular.otf') format('otf'),
 	         url('../fonts/SourceSerifPro-Semibold.otf') format('otf');
