@@ -17,7 +17,18 @@
         background: url(https://d262ilb51hltx0.cloudfront.net/fit/c/800/800/0*Od1QiMxpI_WVNu9Z.jpeg) no-repeat;
         background-size: cover;
     }
-
+    
+    /* Hover Text Color */
+    #sd:hover {color: #FF9900; font-weight:bold;}
+    #sv:hover {color: #FF0034; font-weight:bold;}
+    #md:hover {color: #070707; font-weight:bold;}
+    #sci:hover {color: #FF7700; font-weight:bold;}
+    
+    #gm:hover {color: #D54433; font-weight:bold;}
+    #tw:hover {color: #55ACEE; font-weight:bold;}
+    #fb:hover {color: #46629E; font-weight:bold;}
+    #li:hover {color: #1C86BD; font-weight:bold;}
+    #gh:hover {color: #AB5C51; font-weight:bold;}
 
 /*
 * Skeleton V1.2
