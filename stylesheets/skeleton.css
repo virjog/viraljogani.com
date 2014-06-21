@@ -1,3 +1,24 @@
+/* Custom
+================================================== */
+
+    .sidebar {
+        display: inline-block;
+        position: relative;
+        width: 250px;
+        height: 100%;
+    }
+    .circular {
+        width: 100px;
+        height: 100px;
+        margin: 50px auto;
+        border-radius: 50px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        background: url(https://d262ilb51hltx0.cloudfront.net/fit/c/800/800/0*Od1QiMxpI_WVNu9Z.jpeg) no-repeat;
+        background-size: cover;
+    }
+
+
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -17,11 +38,10 @@
     #Clearing */
 
 
-
 /* #Base 960 Grid
 ================================================== */
 
-    .container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
+    .container                                  { display: inline-block; position: relative; width: 960px; margin: 0 auto; padding: 0; }
     .container .column,
     .container .columns                         { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
     .row                                        { margin-bottom: 20px; }
