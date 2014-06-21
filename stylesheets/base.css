@@ -14,7 +14,7 @@ display:block;
 body {
 line-height:1;
 background:#fff;
-font:14px/21px 'TisaPro', "Helvetica Neue", Helvetica, Arial, sans-serif;
+font:18px/27px 'TisaPro', "Helvetica Neue", Helvetica, Arial, sans-serif;
 color:#444;
 -webkit-font-smoothing:antialiased;
 -webkit-text-size-adjust:100%;
@@ -60,7 +60,7 @@ margin:0 auto;
 
 h1,h2,h3,h4,h5,h6 {
 color:#181818;
-font-family:Georgia, "Times New Roman", serif;
+font-family: 'TisaPro', Georgia, "Times New Roman", serif;
 font-weight:400;
 }
 
