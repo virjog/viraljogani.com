@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Quando);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600);
 
 /* #Media Queries
 ================================================== */
@@ -23,8 +23,17 @@
 ================================================== */
 
 	@font-face {
-		font-family:Quando, serif;
-		font-weight:400;
+		font-family:'Raleway', sans-serif;
+		font-weight:bold;
 		font-style:normal;
 	}
+
+	@font-face {
+		font-family:'TisaPro', sans-serif;
+		font-weight:normal;
+		font-style:normal;
+		src: url('fonts/TisaPro-Regular.otf');
+	}
+
+
 
