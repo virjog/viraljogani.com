@@ -17,7 +17,12 @@
         background: url(https://d262ilb51hltx0.cloudfront.net/fit/c/800/800/0*Od1QiMxpI_WVNu9Z.jpeg) no-repeat;
         background-size: cover;
     }
-    
+    .navbar {
+        display: table;
+        position: relative;
+        width: 250px;
+    }
+
     /* Hover Text Color */
     #sd:hover {color: #FF9900; font-weight:bold;}
     #sv:hover {color: #FF0034; font-weight:bold;}
