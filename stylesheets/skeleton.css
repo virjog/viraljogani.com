@@ -16,6 +16,13 @@
         -moz-border-radius: 50px;
         background: url(https://d262ilb51hltx0.cloudfront.net/fit/c/800/800/0*Od1QiMxpI_WVNu9Z.jpeg) no-repeat;
         background-size: cover;
+        filter: url(filters.svg#grayscale);
+        filter: gray;
+        -webkit-filter: grayscale(1);
+    }
+    .circular:hover {
+        filter: none;
+        -webkit-filter: grayscale(0);
     }
     .navbar {
         display: table;
